@@ -1,0 +1,6 @@
+@week2installtry_HostAddress = http://localhost:5008
+
+GET {{week2installtry_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
